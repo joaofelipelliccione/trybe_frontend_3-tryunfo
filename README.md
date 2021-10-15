@@ -1,4 +1,4 @@
-_[Dê uma olhada em como ficou meu projeto!](https://joaofelipelliccione.github.io/trybe_frontend_3-tryunfo/)_
+👨‍💻 _[Dê uma olhada em como ficou meu projeto!](https://joaofelipelliccione.github.io/trybe_frontend_3-tryunfo/)_
 
 ### Termos e acordos
 
